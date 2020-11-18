@@ -3,4 +3,4 @@
 // }
 // let user='world'
 // console.log(sayHello(user))
- let userName:string=null
+var userName = null;
