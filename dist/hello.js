@@ -17,3 +17,4 @@ function reverse(x) {
     }
 }
 console.log(reverse('hello'));
+/* 任意值 */
